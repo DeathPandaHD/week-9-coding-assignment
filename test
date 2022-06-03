@@ -1,0 +1,24 @@
+<div class="container my-5"> <!--Table-->
+    <table class="table" >
+        <thead>
+            <th >Anime Name</th>
+            <th > <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" width="25" hight="25"> MAL Rating</th>
+            <th ><a href="https://myanimelist.net/profile/DeathPandaHD"> My Rating</a> </th>
+        </thead>
+        <tbody>
+            <tr>Ousama Ranking</a></tr>
+            <tr>#</tr>
+            <tr>#</tr>
+        </tbody>
+        <tbody>
+            <tr>#</tr>
+            <tr>#</tr>
+            <tr>#</tr>
+        </tbody>
+        <tbody>
+            <tr>#</tr>
+            <tr>#</tr>
+            <tr>#</tr>
+        </tbody>
+    </table>
+</div>
